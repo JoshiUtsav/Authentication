@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Authentication",
+  title: "authentication",
   description:
     "A robust and customizable authentication template built with Next.js, featuring secure user login and registration flows.",
 };
